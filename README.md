@@ -23,7 +23,7 @@ To start using this template, clone the repository and open it in Android Studio
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/your-username/AndroidAppTemplate.git
+   git clone https://github.com/ProjectDreadman/AndroidAppTemplate.git
    cd AndroidAppTemplate
 
 2. **Open the project in Android Studio:**
