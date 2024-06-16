@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidAppTemplate</string>
+    <string name="home_fragment">Home Fragment</string>
+</resources>
