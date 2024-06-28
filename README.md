@@ -34,7 +34,7 @@ To start using this template, clone the repository and open it in Android Studio
 - Build and run the project on an emulator or physical device.
 
 ### Contributing
-Contributions are welcome! Feel free to fork this repository, make improvements(by posting them issues and then putting the tag enhancements or putting it in the title), and submit pull requests.
+Contributions are welcome! Feel free to fork this repository, make improvements(via pull request), and submit pull requests.
 
 ### License
 This project is licensed under the MIT License - see the LICENSE file for details.
